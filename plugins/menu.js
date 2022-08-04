@@ -28,8 +28,8 @@ let tags = {
   'jadian': 'Jadian',
   'islami': 'Islami',
   'owner': 'Owner',
-  'advanced': 'Advanced',
-  'info': 'Info',
+
+
   'audio': 'Audio',
   'maker': 'Maker',
 }
@@ -53,7 +53,7 @@ Hai, %ucapan %name! 👋
   body: ' • %cmd %islimit %isPremium',
   footer: '\n',
   after: `*Made by ♡*
-*%npmname* | %version
+*potatodouglas* | %version
 ${'```%npmdesc```'}
 `,
 }
